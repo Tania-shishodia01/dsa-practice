@@ -1,3 +1,6 @@
 Arrays store elements of the same type.
 Arrays have a fixed size.
 Array indexing starts at 0.
+Arrays can be traversed using loops.
+Arrays have a length property.
+Arrays store data in contiguous memory location.
