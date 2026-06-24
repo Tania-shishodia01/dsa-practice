@@ -1,0 +1,3 @@
+Strings store text.
+Strings are immutable in java.
+String methods help manipulate text.
