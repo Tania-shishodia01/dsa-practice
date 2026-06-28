@@ -2,3 +2,5 @@ Strings store text.
 Strings are immutable in java.
 String methods help manipulate text.
 StringBuilder is useful for modifying strings efficiently.
+String is a class in java.
+We define the string with the help of double quotes.
